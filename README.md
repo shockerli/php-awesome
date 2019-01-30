@@ -1,10 +1,19 @@
-# PHP 资料
+# php-awsome
+> 以下是我整理好的 PHP 资源，各位看官拿去用，不用再自己找了。
+> 
+> 每周更新一次，觉得不错请点个 Star ❤️
+> 
+> 如转载分享，请保留出处，谢谢 😆
+> 
+> 原文地址: https://shockerli.net/post/php-awsome/
+> 
+> GitHub: https://github.com/shockerli/php-awsome
+
 
 - **PHP PSR 代码标准**
-
-    > 官网: https://www.php-fig.org/
-    > 原文: https://github.com/php-fig/fig-standards
-    > 中文: https://psr.phphub.org
+    - 官网: https://www.php-fig.org
+    - 原文: https://github.com/php-fig/fig-standards
+    - 中文: https://psr.phphub.org
 
 - [PHP资源列表](https://github.com/ziadoz/awesome-php)
 
