@@ -5,9 +5,9 @@
 > 
 > 如转载分享，请保留出处，谢谢 😆
 > 
-> 原文地址: https://shockerli.net/post/php-awsome/
+> 原文地址: https://shockerli.net/post/php-awesome/
 > 
-> GitHub: https://github.com/shockerli/php-awsome
+> GitHub: https://github.com/shockerli/php-awesome
 
 
 - **PHP PSR 代码标准**
