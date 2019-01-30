@@ -1,12 +1,15 @@
 # PHP 资料
 
-- **PHP 代码规范** http://pear.php.net/manual/en/standards.php
-- **PHP PSR代码标准**
-    官网：http://www.php-fig.org
-    原文：https://github.com/php-fig/fig-standards
-    译文：https://psr.phphub.org
-- **PHP资源列表** https://github.com/ziadoz/awesome-php
-- **PHP设计模式** https://github.com/domnikl/DesignPatternsPHP
+- **PHP PSR 代码标准**
+
+    > 官网: https://www.php-fig.org/
+    > 原文: https://github.com/php-fig/fig-standards
+    > 中文: https://psr.phphub.org
+
+- [PHP资源列表](https://github.com/ziadoz/awesome-php)
+
+- [PHP设计模式](https://github.com/domnikl/DesignPatternsPHP)
+
 - [PHP知识技能树](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
 
 
