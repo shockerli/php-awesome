@@ -1,11 +1,12 @@
 # php-awsome
+
 > 以下是我整理好的 PHP 资源，各位看官拿去用，不用再自己找了。
 > 
-> 每周更新一次，觉得不错请点个 Star ❤️
+> 每周在 [GitHub](https://github.com/shockerli/php-awesome) 上更新，觉得不错请点个 Star ❤️
 > 
 > 如转载分享，请保留出处，谢谢 😆
 > 
-> 原文地址: https://shockerli.net/post/php-awesome/
+> 原文地址: https://shockerli.net/post/php-awesome
 > 
 > GitHub: https://github.com/shockerli/php-awesome
 
@@ -45,25 +46,25 @@
 
 ## PHP框架
 - [**Slim**](https://github.com/slimphp/Slim)
-- [Flight](http://flightphp.com) [*[GitHub](https://github.com/mikecao/flight)*] - An extensible micro-framework for PHP
-- [Bullet PHP](http://bulletphp.com)  [*[GitHub](http://github.com/vlucas/bulletphp)*] - A micro framework for building REST APIs
+- [Flight](http://flightphp.com) [[*GitHub*](https://github.com/mikecao/flight)] - An extensible micro-framework for PHP
+- [Bullet PHP](http://bulletphp.com)  [[*GitHub*](http://github.com/vlucas/bulletphp)] - A micro framework for building REST APIs
 - [Aura](http://auraphp.com) - 包含许多组件
 - [Kohana](https://kohanaframework.org) - HMVC框架
 - [**Workerman**](http://www.workerman.net) - PHP Socket服务器框架
 - [Ohsce](https://github.com/OpenIBC/Ohsce) - 高可靠性PHP通信&控制框架SOCKET
 - [PPM](https://github.com/php-pm/php-pm) - PHP Process Manager
 - [ZPHP](https://github.com/shenzhe/zphp) - SOA服务框架
-- [appserver.io](http://appserver.io) [*[GitHub](https://github.com/appserver-io/appserver)*] - 多线程的PHP应用服务器
+- [appserver.io](http://appserver.io) [[*GitHub*](https://github.com/appserver-io/appserver)] - 多线程的PHP应用服务器
 - [MeepoPS](https://github.com/lixuancn/MeepoPS) - 多进程SocketService
 - [phpDaemon](http://daemon.io) [[*GitHub*](https://github.com/kakserpom/phpdaemon)] - PHP异步框架
 - [QPM](https://github.com/Comos/qpm) - Quick PHP进程管理框架
 - [Zan PHP Framework](https://github.com/youzan/zan) - 有赞团队开源的基于 PHP 协程的网络服务框架 
 - [Swoole](http://www.swoole.com) - PHP语言的高性能网络通信框架
 - [React](http://reactphp.org) - 异步框架(PHP版node.js)
-- [Zephir](http://zephir-lang.com) [*[GitHub](https://github.com/phalcon/zephir)*] - 可以用近似PHP的一种中间代码写程序，然后自动转为C++，并作为扩展来运行
+- [Zephir](http://zephir-lang.com) [[*GitHub*](https://github.com/phalcon/zephir)] - 可以用近似PHP的一种中间代码写程序，然后自动转为C++，并作为扩展来运行
 - [Yaf](https://github.com/laruence/php-yaf) - Yet Another Framework
 - [APIx](https://github.com/frqnck/apix)
-- [Go!](http://go.aopphp.com) [*[GitHub](https://github.com/goaop/framework)*] - PHP AOP框架
+- [Go!](http://go.aopphp.com) [[*GitHub*](https://github.com/goaop/framework)] - PHP AOP框架
 - [ToroPHP](https://github.com/anandkunal/ToroPHP) - 微型路由框架
 - [Fat-Free Framework](https://github.com/bcosca/fatfree)
 
@@ -71,7 +72,7 @@
 ## 软件/类库
 
 ### 未归类
-- [SmartWiki](https://github.com/lifei6671/SmartWiki) - 支持MD的文档工具
+- [SmartWiki](https://github.com/lifei6671/SmartWiki) - 支持 Markdown 的文档工具
 - [Monolog](https://github.com/Seldaek/monolog)
 - [**Hoa**](http://hoa-project.net) - An extensible set of PHP libraries
 - [Kanboard](https://github.com/fguillot/kanboard) - 项目管理工具
@@ -85,8 +86,8 @@
 - [hashids](http://hashids.org/php/) - 根据整数生成唯一、不连续的短ID
 - [Particle](https://github.com/sschiau/Particle) - 唯一ID生成器
 - [Pinyin](https://github.com/overtrue/pinyin) - 中文转拼音工具
-- [Ratchet](http://socketo.me/) [[*GitHub*](https://github.com/ratchetphp/Ratchet/)] - 创建实时、双向客户端服务器WebSockets应用
-- [JsonMapper](https://github.com/netresearch/jsonmapper) - 将内嵌JSON结构映射为PHP类的库
+- [Ratchet](http://socketo.me/) [[*GitHub*](https://github.com/ratchetphp/Ratchet/)] - 创建实时、双向客户端服务器 WebSockets 应用
+- [JsonMapper](https://github.com/netresearch/jsonmapper) - 将内嵌 JSON 结构映射为PHP类的库
 - [Macaw](https://github.com/NoahBuscher/Macaw) - PHP路由类
 - [FastRoute](https://github.com/nikic/FastRoute) - PHP路由类
 - [Pimple](https://github.com/silexphp/Pimple) - 依赖注入容器
@@ -97,8 +98,8 @@
 - [Box](https://github.com/box-project/box2) - Phar构建工具
 - [phpMyFAQ](http://www.phpmyfaq.de) - F.A.Q. 应用
 - [hook](https://github.com/doubleleft/hook) - BaaS软件
-- [KodExplorer](http://www.kalcaddle.com) [*[GitHub](https://github.com/kalcaddle/KODExplorer)*] - 基于Web的在线文件管理、代码编辑器
-- [ICEcoder](https://icecoder.net) [*[GitHub](https://github.com/mattpass/ICEcoder)*] - Web IDE（基于Web的代码编辑器）
+- [KodExplorer](http://www.kalcaddle.com) [[*GitHub*](https://github.com/kalcaddle/KODExplorer)] - 基于Web的在线文件管理、代码编辑器
+- [ICEcoder](https://icecoder.net) [[*GitHub*](https://github.com/mattpass/ICEcoder)] - Web IDE（基于Web的代码编辑器）
 - [PHP-Parser](https://github.com/nikic/PHP-Parser) - PHP解析器
 - [PHPSandbox](https://github.com/Corveda/PHPSandbox) - 将运行PHP作为独立进程的一种方式
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 在代码中寻找类似模式的工具
@@ -168,7 +169,7 @@
 - [PHPStan](https://github.com/phpstan/phpstan) - 静态分析工具，检测代码Bug
 - [PHP_CodeSniffer](https://github.com/squizlabs/php_codesniffer) - PHP/JavaScript/CSS代码规范检查工具
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - PHP代码规范检测
-- [PHPMD](http://phpmd.org) [*[GitHub](https://github.com/phpmd/phpmd)*] - PHP Mess Detector(PHP问题探测器)
+- [PHPMD](http://phpmd.org) [[*GitHub*](https://github.com/phpmd/phpmd)] - PHP Mess Detector(PHP问题探测器)
 - [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 编码风格检测软件
 - [GrumPHP](https://github.com/phpro/grumphp) - 代码质量检测工具
 
@@ -180,7 +181,7 @@
 + [Boris](https://github.com/borisrepl/boris)
 + [CLIFramework](https://github.com/c9s/CLIFramework) - CLI框架
 + [console tool](https://github.com/inhere/php-console) - PHP命令行应用库
-+ [**clue/commander**](https://github.com/clue/php-commander)
++ [clue/commander](https://github.com/clue/php-commander)
 
 
 ### 错误/异常
@@ -194,22 +195,22 @@
 
 
 ### API
-- [phprs](https://github.com/caoym/phprs-restful) - 一款轻量、类jax-rs、实用的PHP框架
+- [phprs](https://github.com/caoym/phprs-restful) - 一款轻量、类 jax-rs、实用的 PHP 框架
 - [graphql-php](https://github.com/webonyx/graphql-php) - GraphQL 参考实现的 PHP 移植版本
 - [Dingo API](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks
 
 
 ### 安全
-- [**Acme PHP**](https://github.com/acmephp/acmephp) - `Let's Encrypt`SSL免费证书获取&更新工具
+- [**Acme PHP**](https://github.com/acmephp/acmephp) - `Let's Encrypt` SSL 免费证书获取&更新工具
 - [Security Advisories Checker](https://security.sensiolabs.org) - 项目安全检测工具
-- [PHP Malware Finder](https://github.com/nbs-system/php-malware-finder) - 检测webshell和恶意软件混淆代码的工具
+- [PHP Malware Finder](https://github.com/nbs-system/php-malware-finder) - 检测  webshell 和恶意软件混淆代码的工具
 - [SecLists](https://github.com/danielmiessler/SecLists) - 安全测试者的手
 - [Iniscan](https://github.com/psecio/iniscan) - php.ini 安全配置检测
 
 
 ### 加密/解密
 - [php-encryption](https://github.com/defuse/php-encryption)
-- [password_compat](https://github.com/ircmaxell/password_compat) - PHP版本5.3.7以上的 *password_** 函数实现
+- [password_compat](https://github.com/ircmaxell/password_compat) - PHP版本5.3.7以上的 `password_*` 函数实现
 - [Acme PHP SSL library](https://github.com/acmephp/ssl) - SSL 工具
 
 
@@ -236,7 +237,7 @@
 
 
 ### URL/Domain
-- [Polr](https://project.polr.me) [*[GitHub](https://github.com/Cydrobolt/polr)*] - 开源短链工具
+- [Polr](https://project.polr.me) [[*GitHub*](https://github.com/Cydrobolt/polr)] - 开源短链工具
 - [Shorty](https://github.com/mikecao/shorty) - 开源短链工具
 - [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 域名解析
 - [TLDExtract](https://github.com/layershifter/TLDExtract) - 顶级域名解析
@@ -257,7 +258,7 @@
 
 ### API文档
 + [php-annotations](https://github.com/php-annotations/php-annotations) - 代码注解解析
-+ [ApiGen](http://www.apigen.org) [*[GitHub](https://github.com/ApiGen/ApiGen)*] - 项目文档生成器
++ [ApiGen](http://www.apigen.org) [[*GitHub*](https://github.com/ApiGen/ApiGen)] - 项目文档生成器
 + [Sami](https://github.com/FriendsOfPHP/Sami) - 项目文档生成工具
 + [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle) - REST API文档生成
 + [**Restler**](https://github.com/Luracast/Restler) - REST API文档生成
@@ -268,14 +269,13 @@
 
 
 ### 数据库
-+ [Doctine](http://www.doctrine-project.org) [*[GitHub](https://github.com/doctrine)*] - PHP数据库ORM（该组织还有其他优秀的开源项目）
-+ [RedBeanPHP](http://www.redbeanphp.com) [*[GitHub](https://github.com/gabordemooij/redbean)*] - ORM映射框架
-+ [Phinx](http://phinx.org) [*[GitHub](https://github.com/robmorgan/phinx)*] - 数据库迁移工具（支持MySQL、PostgreSQL、SQLite、Microsoft SQL Server）
-+ [Adminer](http://www.adminer.org) [*[GitHub](https://github.com/vrana/adminer)*] - 单文件MySQL管理客户端
++ [Doctine](http://www.doctrine-project.org) [[*GitHub*](https://github.com/doctrine)] - PHP数据库ORM（该组织还有其他优秀的开源项目）
++ [RedBeanPHP](http://www.redbeanphp.com) [[*GitHub*](https://github.com/gabordemooij/redbean)] - ORM映射框架
++ [Phinx](http://phinx.org) [[*GitHub*](https://github.com/robmorgan/phinx)] - 数据库迁移工具（支持MySQL、PostgreSQL、SQLite、Microsoft SQL Server）
++ [Adminer](http://www.adminer.org) [[*GitHub*](https://github.com/vrana/adminer)] - 单文件MySQL管理客户端
 + [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin)
 + [SQL Parser](https://github.com/phpmyadmin/sql-parser) - SQL解析器
-+ [Medoo](http://medoo.in) - 最轻量级的PHP数据库框架
-    - 中文文档 http://medoo.lvtao.net
++ [Medoo](https://github.com/catfan/Medoo) - 最轻量级的PHP数据库框架
 + [schema-loader](https://github.com/dbtk/schema-loader) - Load database schema from an XML file
 + [MySQLDump-PHP](https://github.com/ifsnop/mysqldump-php) - 纯PHP实现的mysqldump工具
 + [Latitude](https://github.com/shadowhand/latitude) - SQL语句构建工具
@@ -295,21 +295,21 @@
 
 
 ### 队列/任务
-+ [RoboTask](https://github.com/Codegyre/Robo) - 面向对象的PHP任务运行器
++ [RoboTask](https://github.com/Codegyre/Robo) - 面向对象的 PHP 任务运行器
 + [PHP-Queue](https://github.com/CoderKungfu/php-queue) - 管理队列后端的应用
-+ [RoboTask](https://github.com/consolidation/Robo) - PHP后台任务组件
-+ [Task](https://github.com/taskphp/task) - 一个灵感来源于Grunt和Gulp的纯PHP任务运行器
++ [RoboTask](https://github.com/consolidation/Robo) - PHP 后台任务组件
++ [Task](https://github.com/taskphp/task) - 一个灵感来源于 Grunt 和 Gulp 的纯 PHP 任务运行器
 + [php-resque](https://github.com/chrisboulton/php-resque) - PHP版Resque
-+ [taskPHP](https://github.com/qq8044023/taskPHP) - 基于原生态php开发的定时计划任务框架
-+ [SimpleFork](https://github.com/SegmentFault/SimpleFork) - 精简的php多进程控制库
++ [taskPHP](https://github.com/qq8044023/taskPHP) - 基于原生态 PHP 开发的定时计划任务框架
++ [SimpleFork](https://github.com/SegmentFault/SimpleFork) - 精简的 PHP 多进程控制库
 
 
 ### 缓存
 + [Doctrine Cache](https://github.com/doctrine/cache)
 + [phpFastCache](https://github.com/PHPSocialNetwork/phpfastcache) - 缓存操作类
 + [Stash](http://www.stashphp.com) [[*GitHub*](https://github.com/tedious/Stash)]
-+ [Predis](https://github.com/nrk/predis) - 纯PHP实现的Redis操作库
-+ [Monga](https://github.com/thephpleague/monga) - 纯PHP实现的MongoDB操作库
++ [Predis](https://github.com/nrk/predis) - 纯 PHP 实现的 Redis 操作库
++ [Monga](https://github.com/thephpleague/monga) - 纯 PHP 实现的 MongoDB 操作库
 + [php-lrucache](https://github.com/rogeriopvl/php-lrucache) - LRU 算法缓存实现
 
 
@@ -343,7 +343,7 @@
 ### PDF/条形码
 + [Barcode](http://www.barcodephp.com) - Barcode生成工具
 + [**Snappy**](https://github.com/KnpLabs/snappy) - 根据URL或HTML页面生成图片或PDF格式的缩略图
-+ [TCPDF](http://www.tcpdf.org) [*[GitHub](https://github.com/tecnickcom/TCPDF)*] - 使用官方PDF类生成PDF文档和条形码生成工具
++ [TCPDF](http://www.tcpdf.org) [[*GitHub*](https://github.com/tecnickcom/TCPDF)] - 使用官方PDF类生成PDF文档和条形码生成工具
 + [FPDF](http://www.fpdf.org) [[*GitHub*](https://github.com/lsolesen/fpdf)] - 利用纯PHP代码生成PDF文件
 + [PDFParser](http://www.pdfparser.org) [[*GitHub*](https://github.com/smalot/pdfparser)] - PDF文档解析库
 + [Dompdf](https://github.com/dompdf/dompdf)
@@ -352,8 +352,8 @@
 
 ### HTTP/网络通信
 + [Guzzle](https://github.com/guzzle/guzzle) - PHP HTTP client and webservice framework
-+ [Requests for PHP](http://requests.ryanmccue.info) [*[GitHub](https://github.com/rmccue/Requests)*] - HTTP库
-+ [Unirest](http://unirest.io) [*[GitHub](https://github.com/Mashape/unirest-php)*] - HTTP开发库
++ [Requests for PHP](http://requests.ryanmccue.info) [[*GitHub*](https://github.com/rmccue/Requests)] - HTTP库
++ [Unirest](http://unirest.io) [[*GitHub*](https://github.com/Mashape/unirest-php)] - HTTP开发库
 + [PHP Curl Class](https://github.com/php-curl-class/php-curl-class) - 支持并发的PHP Curl封装类
 + [RingPHP](https://github.com/guzzle/RingPHP/)
 + [php-curlmulti](https://github.com/ares333/php-curlmulti) - 国产CURL并发类
@@ -427,3 +427,4 @@
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet对PHP的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text的PHP代码格式检查插件
+
