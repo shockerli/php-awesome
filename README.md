@@ -1,4 +1,4 @@
-# php-awsome
+# php-awesome
 
 > 以下是我整理好的 PHP 资源，各位看官拿去用，不用再自己找了。
 > 
@@ -23,34 +23,77 @@
 - [PHP知识技能树](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
 
 
-## PHP资源站
+## 资源站点
 - [PHP Weekly](http://www.phpweekly.com)
 - [CodeVisually](http://codevisually.com)
 - [**PHP League**](http://thephpleague.com/zh-cn/)
 - [KnpLabs](http://knplabs.com)
 
 
-## 开发项目
+## 项目框架
 - [**FastAdmin**](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP5 + Bootstrap 的极速后台开发框架
-- [Notadd](https://github.com/notadd/notadd) - 基于 Laravel 和 Vue 的开源 PHP 框架
-- [KiteCms](https://git.oschina.net/kitesky/kitecms)
-- [YFCMF](https://git.oschina.net/rainfer/YFCMF)
+- [YFCMF](https://gitee.com/rainfer/YFCMF) - 后台内容管理框架，基于 ThinkPHP5.1
+- [ThinkCMF](https://github.com/thinkcmf/thinkcmf) - 后台内容管理框架，基于 ThinkPHP5
+- [RhaPHP](https://github.com/geesondog/rhaphp) - 微信开发、小程序开发、微信公众号管理系统
+- [OneBase](https://gitee.com/Bigotry/OneBase) - 基于 ThinkPHP5 的后台开发框架
+
+
+## 成品软件
+
+### 未归类
+- [**Matomo**](https://github.com/matomo-org/matomo) - 开源 Web 统计软件
+- [DuckChat](https://github.com/duckchat/gaga) - 私有聊天软件
+- [BookStack](https://github.com/BookStackApp/BookStack) - 类 wiki 和在线书籍写作平台
+- [SmartWiki](https://github.com/lifei6671/SmartWiki) - 支持 Markdown 的文档工具
+- [Codiad](https://github.com/Codiad/Codiad) - Web 在线 IDE
+- [MeEdu](https://github.com/Qsnh/meedu) - 基于Laravel开发的在线点播系统
+- [Cachet](https://github.com/CachetHQ/Cachet) - The open source status page system
+
+
+### 社区
 - [Flarum](https://github.com/flarum/flarum) - 基于 PHP 和 Mithril.js 开发的轻社区
 - [PHPDish](https://github.com/slince/phpdish) - 基于 Symfony 框架开发的内容社区系统
 
 
-## 综合项目
-- [DuckChat](https://github.com/duckchat/gaga) - 私有聊天软件
-- [BookStack](https://github.com/BookStackApp/BookStack) - 类 wiki 和在线书籍写作平台
+### 微信相关
+- [来客电商](https://gitee.com/laiketui/open) - 微信小程序电商平台
+- [萤火小程序商城](https://gitee.com/xany/bestshop-php)
+- [WeiPHP](http://www.weiphp.cn)
+- [微擎](http://www.we7.cc)
 
 
-## PHP框架
-- [**Slim**](https://github.com/slimphp/Slim)
-- [Flight](http://flightphp.com) [[*GitHub*](https://github.com/mikecao/flight)] - An extensible micro-framework for PHP
-- [Bullet PHP](http://bulletphp.com)  [[*GitHub*](http://github.com/vlucas/bulletphp)] - A micro framework for building REST APIs
+### 项目管理
+- [**禅道**](https://www.zentao.net) - 项目管理软件
+- [Jitamin](https://github.com/jitamin/jitamin) - 项目管理系统
+- [Kanboard](https://github.com/fguillot/kanboard) - 项目管理工具
+- [Phproject](http://www.phproject.org) [[*GitHub*](https://github.com/Alanaktion/phproject)] - 项目管理系统
+
+
+### 构建/部署
+- [**Phabricator**](https://github.com/phacility/phabricator) - 用于敏捷开发的项目管理软件, 含代码托管、Code Review、任务管理、文档管理、问题跟踪、构建与持续集成、博客、内部聊天等
+
+    > - [Phabricator 中文站](https://phabricator.webfuns.net) - 含中文文档、全部插件演示和配置文档
+
+- [Walle](https://github.com/meolu/walle-web) - Web系统部署工具
+- [Piplin](https://github.com/Piplin/Piplin) - 持续集成系统
+- [Phing](http://www.phing.info) [[*GitHub*](https://github.com/phingofficial/phing)] - PHP项目构建工具
+- [Deployer](http://deployer.org) [[*GitHub*](https://github.com/deployphp/deployer)] - PHP项目部署工具
+- [PHPCI](https://www.phptesting.org) [[*GitHub*](https://github.com/block8/phpci)] - 持续集成工具
+
+
+
+## 基础框架
+- [**Slim**](https://github.com/slimphp/Slim) - 非常优秀的轻量级框架，适合开发小型 API 应用
+- [Symfony](https://github.com/symfony/symfony) - 组件式框架，提供了众多优秀的 PHP 类库
+- [Laravel](https://github.com/laravel/laravel) - 号称最优雅的 PHP 框架
+- [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - 著名的 MVC 框架
+- [Yii 2](https://github.com/yiisoft/yii2)
+- [ThinkPHP 5.x](https://github.com/top-think/think)
+- [Flight](https://github.com/mikecao/flight) - RESTful 框架
+- [Bullet](https://github.com/vlucas/bulletphp) - RESTful 框架
 - [Aura](http://auraphp.com) - 包含许多组件
 - [Kohana](https://kohanaframework.org) - HMVC框架
-- [**Workerman**](http://www.workerman.net) - PHP Socket服务器框架
+- [**Workerman**](https://github.com/walkor/workerman) - PHP Socket服务器框架
 - [Ohsce](https://github.com/OpenIBC/Ohsce) - 高可靠性PHP通信&控制框架SOCKET
 - [PPM](https://github.com/php-pm/php-pm) - PHP Process Manager
 - [ZPHP](https://github.com/shenzhe/zphp) - SOA服务框架
@@ -62,20 +105,18 @@
 - [Swoole](http://www.swoole.com) - PHP语言的高性能网络通信框架
 - [React](http://reactphp.org) - 异步框架(PHP版node.js)
 - [Zephir](http://zephir-lang.com) [[*GitHub*](https://github.com/phalcon/zephir)] - 可以用近似PHP的一种中间代码写程序，然后自动转为C++，并作为扩展来运行
-- [Yaf](https://github.com/laruence/php-yaf) - Yet Another Framework
+- [Yaf](https://github.com/laruence/php-yaf) - 鸟哥写的扩展型框架
 - [APIx](https://github.com/frqnck/apix)
 - [Go!](http://go.aopphp.com) [[*GitHub*](https://github.com/goaop/framework)] - PHP AOP框架
-- [ToroPHP](https://github.com/anandkunal/ToroPHP) - 微型路由框架
 - [Fat-Free Framework](https://github.com/bcosca/fatfree)
 
 
-## 软件/类库
+
+## 类库
 
 ### 未归类
-- [SmartWiki](https://github.com/lifei6671/SmartWiki) - 支持 Markdown 的文档工具
 - [Monolog](https://github.com/Seldaek/monolog)
 - [**Hoa**](http://hoa-project.net) - An extensible set of PHP libraries
-- [Kanboard](https://github.com/fguillot/kanboard) - 项目管理工具
 - [Belt](https://github.com/ilya-dev/belt) - 工具函数库
 - [PHP Sitemap Generator](https://github.com/pawelantczak/php-sitemap-generator) - 网站地图生成类
 - [Array2XML](http://www.lalit.org/lab/convert-php-array-to-xml-with-attributes)
@@ -88,8 +129,6 @@
 - [Pinyin](https://github.com/overtrue/pinyin) - 中文转拼音工具
 - [Ratchet](http://socketo.me/) [[*GitHub*](https://github.com/ratchetphp/Ratchet/)] - 创建实时、双向客户端服务器 WebSockets 应用
 - [JsonMapper](https://github.com/netresearch/jsonmapper) - 将内嵌 JSON 结构映射为PHP类的库
-- [Macaw](https://github.com/NoahBuscher/Macaw) - PHP路由类
-- [FastRoute](https://github.com/nikic/FastRoute) - PHP路由类
 - [Pimple](https://github.com/silexphp/Pimple) - 依赖注入容器
 - [PHP-DI](http://php-di.org) [[*GitHub*](https://github.com/PHP-DI/PHP-DI)] - 依赖注入容器
 - [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) - 浏览器环境检测类
@@ -107,7 +146,6 @@
 - [Text_Diff](https://github.com/pear/Text_Diff) - 代码文件比较工具
 - [PHP Analyzer](https://scrutinizer-ci.com/docs/tools/php/php-analyzer/) - 执行和编译器相同的流动分析
 - [apache2nginx](http://www.anilcetin.com/convert-apache-htaccess-to-nginx/) [*[GitHub](https://github.com/mow/apache2nginx)*] - 在线转换apache配置为nginx配置
-- [Phproject](http://www.phproject.org) [*[GitHub](https://github.com/Alanaktion/phproject)*] - 项目管理系统
 - [php-mirroring](https://github.com/ekino/php-mirroring) - Packagist and Github mirroring
 - [**SocketLog**](https://github.com/luofei614/SocketLog) - 微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
 - [ApnsPHP](https://github.com/immobiliare/ApnsPHP) - IOS推送通知
@@ -115,7 +153,6 @@
 - [Faker](https://github.com/fzaninotto/Faker) - 假数据生成器
 - [Validation](https://github.com/Respect/Validation) - 校验工具
 - [Geocoder](https://github.com/geocoder-php/Geocoder)
-- [Codiad](https://github.com/Codiad/Codiad) - Web在线IDE
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - 手册制作工具
 - [**PHP Humanizer**](https://github.com/coduo/php-humanizer) - 数据格式化（多语言）
 - [reCAPTCHA](https://github.com/google/recaptcha)
@@ -129,6 +166,14 @@
 - [PHP dotenv](https://github.com/vlucas/phpdotenv) - PHP `.env` 环境配置管理
 - [ramsey/uuid](https://github.com/ramsey/uuid) - uuid 生成器
 - [Linfo](https://github.com/jrgp/linfo) - Server stats UI/library
+- [PHP-Casbin](https://github.com/php-casbin/php-casbin) - 访问控制框架，支持 ACL、RBAC、ABAC 多种模型
+- [Payment](https://github.com/helei112g/payment) - 一个集成了支付宝支付、微信支付、招商支付的 PHP SDK
+
+
+### 路由
+- [Macaw](https://github.com/NoahBuscher/Macaw) - PHP 路由类
+- [FastRoute](https://github.com/nikic/FastRoute) - PHP 路由类
+- [ToroPHP](https://github.com/anandkunal/ToroPHP) - 微型路由框架
 
 
 ### 异步/协程
@@ -220,12 +265,10 @@
 
 
 ### 微信
-+ [overtrue Wechat](https://github.com/overtrue/wechat)
++ [EasyWeChat](https://github.com/overtrue/wechat) - 微信 SDK
 + [Wechat-PHP-SDK](https://github.com/dodgepudding/wechat-php-sdk)
 + [LaneWeChat](https://github.com/lixuancn/LaneWeChat)
-+ [WeiPHP](http://www.weiphp.cn)
-+ [微擎](http://www.we7.cc)
-+ [Vbot](https://github.com/HanSon/vbot)
++ [Vbot](https://github.com/HanSon/vbot) - web 微信机器人
 
 
 ### 网页抓取/代理
@@ -282,18 +325,6 @@
 + [MongoDB PHP Library](https://github.com/mongodb/mongo-php-library)
 
 
-### 构建/部署
-- [**Phabricator**](https://github.com/phacility/phabricator) - 用于敏捷开发的项目管理软件, 含代码托管、Code Review、任务管理、文档管理、问题跟踪、构建与持续集成、博客、内部聊天等
-
-    > - [Phabricator 中文站](https://phabricator.webfuns.net) - 含中文文档、全部插件演示和配置文档
-
-- [Walle](https://github.com/meolu/walle-web) - Web系统部署工具
-- [Piplin](https://github.com/Piplin/Piplin) - 持续集成系统
-- [Phing](http://www.phing.info) [[*GitHub*](https://github.com/phingofficial/phing)] - PHP项目构建工具
-- [Deployer](http://deployer.org) [[*GitHub*](https://github.com/deployphp/deployer)] - PHP项目部署工具
-- [PHPCI](https://www.phptesting.org) [[*GitHub*](https://github.com/block8/phpci)] - 持续集成工具
-
-
 ### 队列/任务
 + [RoboTask](https://github.com/Codegyre/Robo) - 面向对象的 PHP 任务运行器
 + [PHP-Queue](https://github.com/CoderKungfu/php-queue) - 管理队列后端的应用
@@ -316,13 +347,9 @@
 ### Markdown
 + [PHP Markdown](https://github.com/michelf/php-markdown)
 + [HyperDown](https://github.com/SegmentFault/HyperDown)
-+ [Parsedown](http://parsedown.org) [[*GitHub*](https://github.com/erusev/parsedown)] - Markdown解析类
++ [Parsedown](https://github.com/erusev/parsedown) - Markdown 解析类
 + [CommonMark](https://github.com/thephpleague/commonmark)
 + [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown)
-
-
-### 统计
-- [Matomo](https://github.com/matomo-org/matomo) - 开源Web统计软件
 
 
 ### 邮件
@@ -355,7 +382,7 @@
 + [Requests for PHP](http://requests.ryanmccue.info) [[*GitHub*](https://github.com/rmccue/Requests)] - HTTP库
 + [Unirest](http://unirest.io) [[*GitHub*](https://github.com/Mashape/unirest-php)] - HTTP开发库
 + [PHP Curl Class](https://github.com/php-curl-class/php-curl-class) - 支持并发的PHP Curl封装类
-+ [RingPHP](https://github.com/guzzle/RingPHP/)
++ [RingPHP](https://github.com/guzzle/RingPHP)
 + [php-curlmulti](https://github.com/ares333/php-curlmulti) - 国产CURL并发类
 - [phpseclib](https://github.com/phpseclib/phpseclib) - 安全通信库
 
@@ -414,11 +441,14 @@
 - [MacOS PHP安装工具](https://php-osx.liip.ch)
 - [wxPHP](http://wxphp.org) [[*GitHub*](https://github.com/wxphp/wxphp)] - 用PHP开发桌面应用
 - [UPUPW](http://www.upupw.net) - PHP环境集成包
-- [Composer](https://getcomposer.org)
+
+- [**Composer**](https://github.com/composer/composer)
+    + 官方站 https://getcomposer.org
     + 中文站 http://www.phpcomposer.com
     + 包仓库 https://packagist.org
     + [Composer Installers](https://github.com/composer/installers) - 多框架Composer库安装器
-    + 中国全量镜像 https://pkg.phpcomposer.com/
+    + 中国全量镜像 https://pkg.phpcomposer.com
+
 - [PHP Benchmark](http://www.phpbench.com) - PHP性能测试工具
 - [FirePHP](http://www.firephp.org) - PHP Debug工具
 - [Thrift for PHP](https://github.com/apache/thrift/tree/master/lib/php)
@@ -427,4 +457,3 @@
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet对PHP的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text的PHP代码格式检查插件
-
