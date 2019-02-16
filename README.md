@@ -27,7 +27,7 @@
 - [PHP Weekly](http://www.phpweekly.com)
 - [CodeVisually](http://codevisually.com)
 - [**PHP League**](http://thephpleague.com/zh-cn/)
-- [KnpLabs](http://knplabs.com)
+- [**KnpLabs**](http://knplabs.com) - Object oriented Menus for your Symfony projects
 
 
 ## 项目框架
@@ -41,18 +41,31 @@
 ## 成品软件
 
 ### 未归类
-- [**Matomo**](https://github.com/matomo-org/matomo) - 开源 Web 统计软件
+- [**Matomo**](https://github.com/matomo-org/matomo) - 开源 Web 统计软件，原 Piwik
 - [DuckChat](https://github.com/duckchat/gaga) - 私有聊天软件
 - [BookStack](https://github.com/BookStackApp/BookStack) - 类 wiki 和在线书籍写作平台
 - [SmartWiki](https://github.com/lifei6671/SmartWiki) - 支持 Markdown 的文档工具
 - [Codiad](https://github.com/Codiad/Codiad) - Web 在线 IDE
-- [MeEdu](https://github.com/Qsnh/meedu) - 基于Laravel开发的在线点播系统
+- [MeEdu](https://github.com/Qsnh/meedu) - 基于 Laravel 开发的在线点播系统
 - [Cachet](https://github.com/CachetHQ/Cachet) - The open source status page system
+- [Magento](https://github.com/magento/magento2) - 电商系统
+- [Monica](https://github.com/monicahq/monica) - 个人 CRM
+
+
+### CMS
+- [Grav](https://github.com/getgrav/grav) - 基于文件的 CMS
+- [October](https://github.com/octobercms/october) - 基于 Laravel 开发的 CMS
 
 
 ### 社区
 - [Flarum](https://github.com/flarum/flarum) - 基于 PHP 和 Mithril.js 开发的轻社区
 - [PHPDish](https://github.com/slince/phpdish) - 基于 Symfony 框架开发的内容社区系统
+
+
+### 文件管理
+- [Nextcloud Server](https://github.com/nextcloud/server) - 基于 PHP 的私有云服务
+- [Cloudreve](https://github.com/HFO4/Cloudreve) - 支持多家云存储的云盘系统
+- [Flysystem](https://github.com/thephpleague/flysystem) - 支持几十种驱动的文件管理库
 
 
 ### 微信相关
@@ -103,12 +116,14 @@
 - [QPM](https://github.com/Comos/qpm) - Quick PHP进程管理框架
 - [Zan PHP Framework](https://github.com/youzan/zan) - 有赞团队开源的基于 PHP 协程的网络服务框架 
 - [Swoole](http://www.swoole.com) - PHP语言的高性能网络通信框架
+- [Phalcon](https://github.com/phalcon/cphalcon) - 扩展型框架
 - [React](http://reactphp.org) - 异步框架(PHP版node.js)
 - [Zephir](http://zephir-lang.com) [[*GitHub*](https://github.com/phalcon/zephir)] - 可以用近似PHP的一种中间代码写程序，然后自动转为C++，并作为扩展来运行
 - [Yaf](https://github.com/laruence/php-yaf) - 鸟哥写的扩展型框架
 - [APIx](https://github.com/frqnck/apix)
 - [Go!](http://go.aopphp.com) [[*GitHub*](https://github.com/goaop/framework)] - PHP AOP框架
 - [Fat-Free Framework](https://github.com/bcosca/fatfree)
+- [CakePHP](https://github.com/cakephp/cakephp) - 老牌框架
 
 
 
@@ -168,6 +183,7 @@
 - [Linfo](https://github.com/jrgp/linfo) - Server stats UI/library
 - [PHP-Casbin](https://github.com/php-casbin/php-casbin) - 访问控制框架，支持 ACL、RBAC、ABAC 多种模型
 - [Payment](https://github.com/helei112g/payment) - 一个集成了支付宝支付、微信支付、招商支付的 PHP SDK
+- [EmojiOne](https://github.com/emojione/emojione)
 
 
 ### 路由
@@ -195,11 +211,6 @@
 - [BotMan](https://github.com/botman/botman) - 一个框架PHP库构建聊天机器人
 
 
-### 文件管理
-- [Nextcloud Server](https://github.com/nextcloud/server) - 基于 PHP 的私有云服务
-- [Cloudreve](https://github.com/HFO4/Cloudreve) - 支持多家云存储的云盘系统
-
-
 ### 文本处理
 - [pangu.php](https://github.com/Rakume/pangu.php) - 自动添加文本的空格
 - [TOML parser for PHP](https://github.com/yosymfony/toml)
@@ -221,12 +232,12 @@
 
 ### CLI
 - [**CLImate**](https://github.com/thephpleague/climate) - 更好的命令行输出
-+ [phpsh](http://www.phpsh.org) [[*GitHub*](https://github.com/facebookarchive/phpsh)]
-+ [psysh](http://psysh.org) [[*GitHub*](https://github.com/bobthecow/psysh)]
-+ [Boris](https://github.com/borisrepl/boris)
-+ [CLIFramework](https://github.com/c9s/CLIFramework) - CLI框架
-+ [console tool](https://github.com/inhere/php-console) - PHP命令行应用库
-+ [clue/commander](https://github.com/clue/php-commander)
+- [phpsh](http://www.phpsh.org) [[*GitHub*](https://github.com/facebookarchive/phpsh)]
+- [psysh](https://github.com/bobthecow/psysh)
+- [Boris](https://github.com/borisrepl/boris)
+- [CLIFramework](https://github.com/c9s/CLIFramework) - CLI框架
+- [console tool](https://github.com/inhere/php-console) - PHP命令行应用库
+- [clue/commander](https://github.com/clue/php-commander)
 
 
 ### 错误/异常
@@ -290,13 +301,17 @@
 
 
 ### OAuth
-+ [PHP搭建OAuth2.0](http://www.zyuns.com/?page_id=188)
 + [oauth2-server-php](https://github.com/bshaffer/oauth2-server-php)
 + [OAuth2-PHP](http://code.google.com/p/oauth2-php/)
 + [Opauth](https://github.com/opauth/opauth)
 + [OAuth 2.0 Server](https://github.com/thephpleague/oauth2-server)
 + [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client)
 + [Socialite](https://github.com/overtrue/socialite)
++ [HWIOAuthBundle](https://github.com/hwi/HWIOAuthBundle) - OAuth client integration for Symfony.
+
+
+### Auth
+- [jwt-auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token Authentication for Laravel & Lumen
 
 
 ### API文档
@@ -342,6 +357,7 @@
 + [Predis](https://github.com/nrk/predis) - 纯 PHP 实现的 Redis 操作库
 + [Monga](https://github.com/thephpleague/monga) - 纯 PHP 实现的 MongoDB 操作库
 + [php-lrucache](https://github.com/rogeriopvl/php-lrucache) - LRU 算法缓存实现
++ [PhpRedis](https://github.com/phpredis/phpredis) - Redis 客户端扩展
 
 
 ### Markdown
@@ -353,7 +369,7 @@
 
 
 ### 邮件
-+ [Swift Mailer](http://swiftmailer.org) - PHP邮件库
++ [Swift Mailer](http://swiftmailer.org) - PHP 邮件库
 + [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 
@@ -391,7 +407,7 @@
 + [PHPSpec](http://www.phpspec.net) - SpecBDD测试框架
 + [Behat](http://behat.org) - StoryBDD测试框架
 + [Codeception](http://codeception.com) - BDD全栈测试框架
-+ [PHPUnit](https://phpunit.de) - 单元测试框架
++ [PHPUnit](https://github.com/sebastianbergmann/phpunit) - 单元测试框架
 + [atoum](https://github.com/atoum/atoum) - 单元测试框架
 + [Enhance-PHP](https://github.com/Enhance-PHP/Enhance-PHP) - 单元测试框架
 + [Mockery](https://github.com/mockery/mockery)
@@ -457,3 +473,4 @@
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet对PHP的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text的PHP代码格式检查插件
+
