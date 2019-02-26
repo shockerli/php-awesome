@@ -183,7 +183,8 @@
 - [Linfo](https://github.com/jrgp/linfo) - Server stats UI/library
 - [PHP-Casbin](https://github.com/php-casbin/php-casbin) - 访问控制框架，支持 ACL、RBAC、ABAC 多种模型
 - [Payment](https://github.com/helei112g/payment) - 一个集成了支付宝支付、微信支付、招商支付的 PHP SDK
-- [EmojiOne](https://github.com/emojione/emojione)
+- [EmojiOne](https://github.com/emojione/emojione) - Emoji 表情
+- [tbk](https://github.com/ennnnny/tbk) - 阿里淘宝客SDK
 
 
 ### 路由
@@ -288,6 +289,7 @@
 + [QueryList](https://github.com/jae-jae/QueryList)
 + [Goutte](https://github.com/fabpot/Goutte) - 一个抓取网站数据的 PHP 库
 + [PHPcrawer](https://github.com/mmerian/phpcrawl)
++ [Blackfire Player](https://github.com/blackfireio/player) - Blackfire Player is a powerful Web Crawling, Web Testing, and Web Scraper application
 
 
 ### URL/Domain
