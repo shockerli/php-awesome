@@ -100,7 +100,7 @@
 - [Laravel](https://github.com/laravel/laravel) - 号称最优雅的 PHP 框架
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - 著名的 MVC 框架
 - [Yii 2](https://github.com/yiisoft/yii2)
-- [ThinkPHP 5.x](https://github.com/top-think/think)
+- [ThinkPHP 5](https://github.com/top-think/think)
 - [Zend Framework](https://github.com/zendframework/zendframework)
 - [Flight](https://github.com/mikecao/flight) - RESTful 框架
 - [Bullet](https://github.com/vlucas/bulletphp) - RESTful 框架
@@ -124,6 +124,7 @@
 - [Go!](https://github.com/goaop/framework) - PHP AOP 框架
 - [Fat-Free Framework](https://github.com/bcosca/fatfree)
 - [CakePHP](https://github.com/cakephp/cakephp) - 老牌框架
+- [One](https://github.com/lizhichao/one) - 基于 swoole 常驻内存框架
 
 
 
@@ -185,6 +186,8 @@
 - [Payment](https://github.com/helei112g/payment) - 一个集成了支付宝支付、微信支付、招商支付的 PHP SDK
 - [EmojiOne](https://github.com/emojione/emojione) - Emoji 表情
 - [tbk](https://github.com/ennnnny/tbk) - 阿里淘宝客SDK
+- [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware
+- [php-option](https://github.com/schmittjoh/php-option) - PHP Option Type
 
 
 ### 路由
@@ -216,6 +219,7 @@
 - [pangu.php](https://github.com/Rakume/pangu.php) - 自动添加文本的空格
 - [TOML parser for PHP](https://github.com/yosymfony/toml)
 - [Yaml](https://github.com/symfony/yaml)
+- [VicWord](https://github.com/lizhichao/VicWord) - 分词
 
 
 ### 算法
