@@ -188,6 +188,10 @@
 - [tbk](https://github.com/ennnnny/tbk) - 阿里淘宝客SDK
 - [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware
 - [php-option](https://github.com/schmittjoh/php-option) - PHP Option Type
+- [Dot](https://github.com/adbario/php-dot-notation) - 实现点号操作多维数组
+- [**Stringy**](https://github.com/danielstjules/Stringy) - 几十种字符串操作函数的集合
+- [polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - 纯 PHP 实现的 Mbstring 扩展功能
+- [symfony/finder](https://github.com/symfony/finder)
 
 
 ### 路由
@@ -220,6 +224,7 @@
 - [TOML parser for PHP](https://github.com/yosymfony/toml)
 - [Yaml](https://github.com/symfony/yaml)
 - [VicWord](https://github.com/lizhichao/VicWord) - 分词
+- [weblibs-configmanager](https://github.com/clagiordano/weblibs-configmanager) - 配置管理
 
 
 ### 算法
@@ -472,7 +477,7 @@
 - [LNMP一键安装包(1)](https://lnmp.org)
 - [LNMP一键安装包(2)](https://github.com/lj2007331/lnmp)
 - [**OneinStack**](https://oneinstack.com) - 一键 PHP/JAVA 环境安装工具
-- [MacOS PHP安装工具](https://php-osx.liip.ch)
+- [MacOS PHP 安装工具](https://php-osx.liip.ch)
 - [wxPHP](https://github.com/wxphp/wxphp) - 用 PHP 开发桌面应用
 - [UPUPW](http://www.upupw.net) - PHP 环境集成包
 - [PHP Benchmark](http://www.phpbench.com) - PHP 性能测试工具
