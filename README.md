@@ -188,10 +188,7 @@
 - [tbk](https://github.com/ennnnny/tbk) - 阿里淘宝客SDK
 - [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware
 - [php-option](https://github.com/schmittjoh/php-option) - PHP Option Type
-- [Dot](https://github.com/adbario/php-dot-notation) - 实现点号操作多维数组
-- [**Stringy**](https://github.com/danielstjules/Stringy) - 几十种字符串操作函数的集合
-- [polyfill-mbstring](https://github.com/symfony/polyfill-mbstring) - 纯 PHP 实现的 Mbstring 扩展功能
-- [symfony/finder](https://github.com/symfony/finder)
+- [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x 版本的 `random_bytes()` 和 `random_int()`
 
 
 ### 路由
@@ -224,7 +221,6 @@
 - [TOML parser for PHP](https://github.com/yosymfony/toml)
 - [Yaml](https://github.com/symfony/yaml)
 - [VicWord](https://github.com/lizhichao/VicWord) - 分词
-- [weblibs-configmanager](https://github.com/clagiordano/weblibs-configmanager) - 配置管理
 
 
 ### 算法
@@ -248,6 +244,7 @@
 - [CLIFramework](https://github.com/c9s/CLIFramework) - CLI 框架
 - [console tool](https://github.com/inhere/php-console) - PHP 命令行应用库
 - [clue/commander](https://github.com/clue/php-commander)
+- [symfony/console](https://github.com/symfony/console)
 
 
 ### 错误/异常
@@ -412,6 +409,7 @@
 + [RingPHP](https://github.com/guzzle/RingPHP)
 + [php-curlmulti](https://github.com/ares333/php-curlmulti) - 国产 CURL 并发类
 - [phpseclib](https://github.com/phpseclib/phpseclib) - 安全通信库
+- [symfony/http-foundation](https://github.com/symfony/http-foundation)
 
 
 ### 测试框架
@@ -477,7 +475,7 @@
 - [LNMP一键安装包(1)](https://lnmp.org)
 - [LNMP一键安装包(2)](https://github.com/lj2007331/lnmp)
 - [**OneinStack**](https://oneinstack.com) - 一键 PHP/JAVA 环境安装工具
-- [MacOS PHP 安装工具](https://php-osx.liip.ch)
+- [MacOS PHP安装工具](https://php-osx.liip.ch)
 - [wxPHP](https://github.com/wxphp/wxphp) - 用 PHP 开发桌面应用
 - [UPUPW](http://www.upupw.net) - PHP 环境集成包
 - [PHP Benchmark](http://www.phpbench.com) - PHP 性能测试工具
@@ -488,4 +486,3 @@
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet 对 PHP 的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text 的 PHP 代码格式检查插件
-
