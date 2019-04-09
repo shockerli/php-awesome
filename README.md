@@ -255,6 +255,8 @@
 
 ### 调试工具
 - [PHP Debug Bar](https://github.com/maximebf/php-debugbar)
+- [OpCacheGUI](https://github.com/PeeHaa/OpCacheGUI) - 漂亮且支持权限验证的 OPcache 界面管理工具
+- [OPcache Status](https://github.com/rlerdorf/opcache-status) - 单文件的 OPcache 状态配置管理
 
 
 ### API
