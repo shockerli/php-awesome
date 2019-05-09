@@ -189,6 +189,8 @@
 - [CORS](https://github.com/medz/cors) - PHP CORS (Cross-origin resource sharing) middleware
 - [php-option](https://github.com/schmittjoh/php-option) - PHP Option Type
 - [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x 版本的 `random_bytes()` 和 `random_int()`
+- [Comparator](https://github.com/sebastianbergmann/comparator) - 对比两个 PHP 变量值是否相等
+- [Object Reflector](https://github.com/sebastianbergmann/object-reflector) - 对象反射
 
 
 ### 路由
@@ -234,6 +236,7 @@
 - [PHPMD](https://github.com/phpmd/phpmd) - PHP Mess Detector(PHP 问题探测器)
 - [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 编码风格检测软件
 - [GrumPHP](https://github.com/phpro/grumphp) - 代码质量检测工具
+- [CodeCoverage](https://github.com/sebastianbergmann/php-code-coverage) - 代码覆盖率报表工具
 
 
 ### CLI
@@ -257,6 +260,7 @@
 - [PHP Debug Bar](https://github.com/maximebf/php-debugbar)
 - [OpCacheGUI](https://github.com/PeeHaa/OpCacheGUI) - 漂亮且支持权限验证的 OPcache 界面管理工具
 - [OPcache Status](https://github.com/rlerdorf/opcache-status) - 单文件的 OPcache 状态配置管理
+- [phpdbg](https://www.php.net/manual/zh/book.phpdbg.php) - 内置的调试工具
 
 
 ### API
@@ -488,3 +492,4 @@
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet 对 PHP 的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text 的 PHP 代码格式检查插件
+
