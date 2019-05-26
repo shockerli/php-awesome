@@ -191,6 +191,7 @@
 - [random_compat](https://github.com/paragonie/random_compat) - PHP 5.x 版本的 `random_bytes()` 和 `random_int()`
 - [Comparator](https://github.com/sebastianbergmann/comparator) - 对比两个 PHP 变量值是否相等
 - [Object Reflector](https://github.com/sebastianbergmann/object-reflector) - 对象反射
+- [Google Translate PHP](https://github.com/Stichoza/google-translate-php) - 谷歌翻译 API
 
 
 ### 路由
@@ -466,6 +467,7 @@
 - [Composer Installers](https://github.com/composer/installers): 多框架 Composer 库安装器
 - 中国全量镜像: https://pkg.phpcomposer.com
 - [Awesome Composer](https://github.com/jakoch/awesome-composer): A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials
+- [ZComposer](https://github.com/zencodex/composer-mirror) - Composer 镜像，有助于了解 Composer 镜像的原理
 
 
 ## PHP 扩展
