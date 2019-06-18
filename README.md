@@ -19,6 +19,7 @@
 - [PHP 资源列表](https://github.com/ziadoz/awesome-php)
 
 - [PHP 设计模式](https://github.com/domnikl/DesignPatternsPHP)
+- [用 PHP 的方式实现的各类算法合集](https://github.com/m9rco/algorithm-php)
 
 - [PHP 知识技能树](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
 
@@ -49,6 +50,9 @@
 - [Cachet](https://github.com/CachetHQ/Cachet) - The open source status page system
 - [Magento](https://github.com/magento/magento2) - 电商系统
 - [Monica](https://github.com/monicahq/monica) - 个人 CRM
+- [PHP Server Monitor](https://github.com/phpservermon/phpservermon) - 服务器监控工具
+- [phpSysInfo](https://github.com/phpsysinfo/phpsysinfo) - 系统信息展示
+- [YouPHPTube](https://github.com/YouPHPTube/YouPHPTube) - YouTube 克隆工具
 
 
 ### CMS
@@ -99,6 +103,7 @@
 - [Symfony](https://github.com/symfony/symfony) - 组件式框架，提供了众多优秀的 PHP 类库
 - [Laravel](https://github.com/laravel/laravel) - 号称最优雅的 PHP 框架
 - [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - 著名的 MVC 框架
+- [CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - CodeIgniter 全新现代版本
 - [Yii 2](https://github.com/yiisoft/yii2)
 - [ThinkPHP 5](https://github.com/top-think/think)
 - [Zend Framework](https://github.com/zendframework/zendframework)
@@ -198,6 +203,7 @@
 - [Macaw](https://github.com/NoahBuscher/Macaw) - PHP 路由类
 - [FastRoute](https://github.com/nikic/FastRoute) - PHP 路由类
 - [ToroPHP](https://github.com/anandkunal/ToroPHP) - 微型路由框架
+- [Klein.php](https://github.com/klein/klein.php) - 快速路由
 
 
 ### 异步/协程
@@ -224,13 +230,14 @@
 - [TOML parser for PHP](https://github.com/yosymfony/toml)
 - [Yaml](https://github.com/symfony/yaml)
 - [VicWord](https://github.com/lizhichao/VicWord) - 分词
+- [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL Builder 一样
 
 
 ### 算法
 - [PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - PHP 数据结构和算法
 
 
-### 代码检查
+### 代码检查/静态分析
 - [PHPStan](https://github.com/phpstan/phpstan) - 静态分析工具，检测代码 Bug
 - [PHP_CodeSniffer](https://github.com/squizlabs/php_codesniffer) - PHP/JavaScript/CSS 代码规范检查工具
 - [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - PHP 代码规范检测
@@ -238,6 +245,8 @@
 - [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 编码风格检测软件
 - [GrumPHP](https://github.com/phpro/grumphp) - 代码质量检测工具
 - [CodeCoverage](https://github.com/sebastianbergmann/php-code-coverage) - 代码覆盖率报表工具
+- [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - 可视化静态分析结果
+- [PHPLOC](https://github.com/sebastianbergmann/phploc) - 快速统计分析 PHP 项目结构
 
 
 ### CLI
@@ -417,6 +426,7 @@
 + [php-curlmulti](https://github.com/ares333/php-curlmulti) - 国产 CURL 并发类
 - [phpseclib](https://github.com/phpseclib/phpseclib) - 安全通信库
 - [symfony/http-foundation](https://github.com/symfony/http-foundation)
+- [phpWhois](https://github.com/phpWhois/phpWhois) - Whois 信息查询
 
 
 ### 测试框架
