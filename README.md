@@ -154,7 +154,8 @@
 - [PHP-DI](https://github.com/PHP-DI/PHP-DI) - 依赖注入容器
 - [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) - 浏览器环境检测类
 - [DeviceDetector](https://github.com/matomo-org/device-detector) - 浏览器环境检测类
-- [PHP Cron Expression Parser](https://github.com/poliander/cron) - Crontab 格式解析
+- [poliander/cron](https://github.com/poliander/cron) - Crontab 格式解析
+- [dragonmantank/cron-expression](https://github.com/dragonmantank/cron-expression) - Crontab 格式解析
 - [Box](https://github.com/box-project/box2) - Phar 构建工具
 - [phpMyFAQ](http://www.phpmyfaq.de) - F.A.Q. 应用
 - [hook](https://github.com/doubleleft/hook) - BaaS 软件
@@ -223,6 +224,7 @@
 - [Easy SMS](https://github.com/overtrue/easy-sms) - 短信发送组件
 - [PhpSms](https://github.com/toplan/phpsms) - 短信发送库
 - [BotMan](https://github.com/botman/botman) - 一个框架 PHP 库构建聊天机器人
+- [Carson](https://github.com/carsonbot/carsonbot) - Issue Butler
 
 
 ### 文本处理
