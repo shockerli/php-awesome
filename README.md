@@ -2,7 +2,7 @@
 
 > 以下是我整理好的 PHP 资源，各位看官拿去用，不用再自己找了。
 > 
-> 每周在 [GitHub](https://github.com/shockerli/php-awesome) 上更新，觉得不错请点个 Star ❤️
+> 在 [GitHub](https://github.com/shockerli/php-awesome) 上稳定更新，觉得不错请点个 Star ❤️
 > 
 > 如转载分享，请保留出处，谢谢 😆
 > 
@@ -31,6 +31,7 @@
 
 
 ## 项目框架
+- [Voyager](https://github.com/the-control-group/voyager) - Laravel 后台管理框架
 - [**FastAdmin**](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP5 + Bootstrap 的极速后台开发框架
 - [YFCMF](https://gitee.com/rainfer/YFCMF) - 后台内容管理框架，基于 ThinkPHP5.1
 - [ThinkCMF](https://github.com/thinkcmf/thinkcmf) - 后台内容管理框架，基于 ThinkPHP5
@@ -63,6 +64,7 @@
 ### 社区
 - [Flarum](https://github.com/flarum/flarum) - 基于 PHP 和 Mithril.js 开发的轻社区
 - [PHPDish](https://github.com/slince/phpdish) - 基于 Symfony 框架开发的内容社区系统
+- [Koel](https://github.com/phanan/koel) - 音乐社区🎵
 
 
 ### 文件管理
@@ -148,7 +150,7 @@
 - [hashids](http://hashids.org/php/) - 根据整数生成唯一、不连续的短 ID
 - [Particle](https://github.com/sschiau/Particle) - 唯一 ID 生成器
 - [Pinyin](https://github.com/overtrue/pinyin) - 中文转拼音工具
-- [Ratchet](https://github.com/ratchetphp/Ratchet/) - 创建实时、双向客户端服务器 WebSockets 应用
+- [Ratchet](https://github.com/ratchetphp/Ratchet) - 创建实时、双向客户端服务器 WebSockets 应用
 - [JsonMapper](https://github.com/netresearch/jsonmapper) - 将内嵌 JSON 结构映射为 PHP 类的库
 - [Pimple](https://github.com/silexphp/Pimple) - 依赖注入容器
 - [PHP-DI](https://github.com/PHP-DI/PHP-DI) - 依赖注入容器
@@ -161,7 +163,6 @@
 - [hook](https://github.com/doubleleft/hook) - BaaS 软件
 - [KodExplorer](https://github.com/kalcaddle/KODExplorer) - 基于Web的在线文件管理、代码编辑器
 - [ICEcoder](https://github.com/mattpass/ICEcoder) - Web IDE(基于 Web 的代码编辑器)
-- [PHP-Parser](https://github.com/nikic/PHP-Parser) - PHP 解析器
 - [PHPSandbox](https://github.com/Corveda/PHPSandbox) - 将运行 PHP 作为独立进程的一种方式
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 在代码中寻找类似模式的工具
 - [Ubench](https://github.com/devster/ubench) - 代码执行效率评测工具
@@ -198,6 +199,8 @@
 - [Comparator](https://github.com/sebastianbergmann/comparator) - 对比两个 PHP 变量值是否相等
 - [Object Reflector](https://github.com/sebastianbergmann/object-reflector) - 对象反射
 - [Google Translate PHP](https://github.com/Stichoza/google-translate-php) - 谷歌翻译 API
+- [30 seconds of PHP](https://github.com/30-seconds/30-seconds-of-php)
+- [Docker Tutorials and Labs](https://github.com/docker/labs)
 
 
 ### 路由
@@ -233,10 +236,16 @@
 - [Yaml](https://github.com/symfony/yaml)
 - [VicWord](https://github.com/lizhichao/VicWord) - 分词
 - [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL Builder 一样
+- [Doctrine Inflector](https://github.com/doctrine/inflector)
 
 
 ### 算法
 - [PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - PHP 数据结构和算法
+
+
+### 语法解析
+- [Tolerant PHP Parser](https://github.com/microsoft/tolerant-php-parser)
+- [PHP-Parser](https://github.com/nikic/PHP-Parser) - PHP 解析器
 
 
 ### 代码检查/静态分析
@@ -249,6 +258,7 @@
 - [CodeCoverage](https://github.com/sebastianbergmann/php-code-coverage) - 代码覆盖率报表工具
 - [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - 可视化静态分析结果
 - [PHPLOC](https://github.com/sebastianbergmann/phploc) - 快速统计分析 PHP 项目结构
+- [Doctrine Lexer](https://github.com/doctrine/lexer)
 
 
 ### CLI
@@ -397,6 +407,7 @@
 ### 邮件
 + [Swift Mailer](http://swiftmailer.org) - PHP 邮件库
 + [PHPMailer](https://github.com/PHPMailer/PHPMailer)
++ [EmailValidator](https://github.com/egulias/EmailValidator) - 邮箱地址验证
 
 
 ### Office
