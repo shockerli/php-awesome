@@ -1,5 +1,4 @@
 # php-awesome
-
 > 以下是我整理好的 PHP 资源，各位看官拿去用，不用再自己找了。
 > 
 > 在 [GitHub](https://github.com/shockerli/php-awesome) 上稳定更新，觉得不错请点个 Star ❤️
@@ -31,6 +30,7 @@
 
 
 ## 项目框架
+- [laravel-admin](https://github.com/z-song/laravel-admin) - 快速构建后台管理的开发工具
 - [Voyager](https://github.com/the-control-group/voyager) - Laravel 后台管理框架
 - [**FastAdmin**](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP5 + Bootstrap 的极速后台开发框架
 - [YFCMF](https://gitee.com/rainfer/YFCMF) - 后台内容管理框架，基于 ThinkPHP5.1
@@ -174,7 +174,6 @@
 - [ApnsPHP](https://github.com/immobiliare/ApnsPHP) - iOS 推送通知
 - [php-socket-raw](https://github.com/clue/php-socket-raw)
 - [Faker](https://github.com/fzaninotto/Faker) - 假数据生成器
-- [Validation](https://github.com/Respect/Validation) - 校验工具
 - [Geocoder](https://github.com/geocoder-php/Geocoder)
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - 手册制作工具
 - [**PHP Humanizer**](https://github.com/coduo/php-humanizer) - 数据格式化（多语言）
@@ -241,6 +240,7 @@
 
 ### 算法
 - [PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - PHP 数据结构和算法
+- [Leetcode for PHP](https://github.com/wuqinqiang/leetcode-php)
 
 
 ### 语法解析
@@ -374,6 +374,8 @@
 + [MySQLDump-PHP](https://github.com/ifsnop/mysqldump-php) - 纯 PHP 实现的mysqldump工具
 + [Latitude](https://github.com/shadowhand/latitude) - SQL 语句构建工具
 + [MongoDB PHP Library](https://github.com/mongodb/mongo-php-library)
++ [Doctrine DBAL](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
++ [phpClickHouse](https://github.com/smi2/phpClickHouse) - PHP ClickHouse wrapper
 
 
 ### 队列/任务
@@ -440,6 +442,12 @@
 - [phpseclib](https://github.com/phpseclib/phpseclib) - 安全通信库
 - [symfony/http-foundation](https://github.com/symfony/http-foundation)
 - [phpWhois](https://github.com/phpWhois/phpWhois) - Whois 信息查询
+- [FruityWifi](https://github.com/xtr4nge/FruityWifi) - WiFi 管理工具
+
+
+### 表单校验
+- [Respect/Validation](https://github.com/Respect/Validation) - 校验工具
+- [siriusphp/validation](https://github.com/siriusphp/validation)
 
 
 ### 测试框架
@@ -478,6 +486,7 @@
 + [ColorExtractor](https://github.com/thephpleague/color-extractor) - 获取图片中的颜色
 + [Captcha](https://github.com/Gregwar/Captcha) - 验证码
 + [Lychee](https://github.com/electerious/Lychee) - 图片管理系统
++ [Workflower](https://github.com/phpmentors-jp/workflower) - BPMN 2.0 workflow engine for PHP
 
 
 ## Composer
@@ -491,6 +500,7 @@
 - 中国全量镜像: https://pkg.phpcomposer.com
 - [Awesome Composer](https://github.com/jakoch/awesome-composer): A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials
 - [ZComposer](https://github.com/zencodex/composer-mirror) - Composer 镜像，有助于了解 Composer 镜像的原理
+- [Packagist Mirror](https://github.com/Webysther/packagist-mirror)
 
 
 ## PHP 扩展
