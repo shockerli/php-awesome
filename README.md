@@ -17,10 +17,15 @@
 
 - [PHP 资源列表](https://github.com/ziadoz/awesome-php)
 
-- [PHP 设计模式](https://github.com/domnikl/DesignPatternsPHP)
+- [PHP 设计模式](https://github.com/domnikl/DesignPatternsPHP) [中文翻译](https://learnku.com/docs/php-design-patterns/2018) - 设计模式
+- [RulerZ](https://github.com/K-Phoen/rulerz) - 一个实现了规格模式的项目
 - [用 PHP 的方式实现的各类算法合集](https://github.com/m9rco/algorithm-php)
 
 - [PHP 知识技能树](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
+
+
+## 教程文档
+- [TDD 构建 Laravel 论坛笔记](https://learnku.com/docs/forum-in-laravel-tdd)
 
 
 ## 资源站点
@@ -63,6 +68,7 @@
 
 ### 社区
 - [Flarum](https://github.com/flarum/flarum) - 基于 PHP 和 Mithril.js 开发的轻社区
+- [MDClub](https://github.com/zdhxiong/mdclub) - 更轻量的 Material Design 风格社区
 - [PHPDish](https://github.com/slince/phpdish) - 基于 Symfony 框架开发的内容社区系统
 - [Koel](https://github.com/phanan/koel) - 音乐社区🎵
 
@@ -132,6 +138,7 @@
 - [Fat-Free Framework](https://github.com/bcosca/fatfree)
 - [CakePHP](https://github.com/cakephp/cakephp) - 老牌框架
 - [One](https://github.com/lizhichao/one) - 基于 swoole 常驻内存框架
+- [ddd](https://github.com/dddinphp/ddd) - Domain Driven Design PHP helper classes
 
 
 
@@ -167,7 +174,6 @@
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 在代码中寻找类似模式的工具
 - [Ubench](https://github.com/devster/ubench) - 代码执行效率评测工具
 - [Text_Diff](https://github.com/pear/Text_Diff) - 代码文件比较工具
-- [PHP Analyzer](https://scrutinizer-ci.com/docs/tools/php/php-analyzer/) - 执行和编译器相同的流动分析
 - [apache2nginx](https://github.com/mow/apache2nginx) - 在线转换 apache 配置为 nginx 配置
 - [php-mirroring](https://github.com/ekino/php-mirroring) - Packagist and Github mirroring
 - [**SocketLog**](https://github.com/luofei614/SocketLog) - 微信调试、API 调试和 AJAX 的调试的工具，能将日志通过 WebSocket 输出到 Chrome 浏览器的 console 中
@@ -200,6 +206,8 @@
 - [Google Translate PHP](https://github.com/Stichoza/google-translate-php) - 谷歌翻译 API
 - [30 seconds of PHP](https://github.com/30-seconds/30-seconds-of-php)
 - [Docker Tutorials and Labs](https://github.com/docker/labs)
+- [easytbk](https://github.com/niugengyun/easytbk) - 淘客六合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁、蘑菇街
+- [PHP-Scoper](https://github.com/humbug/php-scoper) - 隔离代码，方便打包成 PHAR
 
 
 ### 路由
@@ -259,6 +267,8 @@
 - [PhpMetrics](https://github.com/phpmetrics/PhpMetrics) - 可视化静态分析结果
 - [PHPLOC](https://github.com/sebastianbergmann/phploc) - 快速统计分析 PHP 项目结构
 - [Doctrine Lexer](https://github.com/doctrine/lexer)
+- [BetterReflection](https://github.com/Roave/BetterReflection) - 基于AST的反射库，允许分析操作代码
+- [PHP Analyzer](https://github.com/scrutinizer-ci/php-analyzer) - 执行和编译器相同的流动分析
 
 
 ### CLI
@@ -437,6 +447,7 @@
 + [Requests for PHP](https://github.com/rmccue/Requests) - HTTP 库
 + [Unirest](https://github.com/Mashape/unirest-php) - HTTP 开发库
 + [PHP Curl Class](https://github.com/php-curl-class/php-curl-class) - 支持并发的 PHP Curl 封装类
++ [symfony/http-client](https://github.com/symfony/http-client) - Symfony HttpClient 组件
 + [RingPHP](https://github.com/guzzle/RingPHP)
 + [php-curlmulti](https://github.com/ares333/php-curlmulti) - 国产 CURL 并发类
 - [phpseclib](https://github.com/phpseclib/phpseclib) - 安全通信库
@@ -489,6 +500,16 @@
 + [Workflower](https://github.com/phpmentors-jp/workflower) - BPMN 2.0 workflow engine for PHP
 
 
+### 视频
+- [PHP-FFMpeg](https://github.com/PHP-FFMpeg/PHP-FFMpeg) - FFMpeg 视频处理
+
+
+### PRC
+- [Hprose for PHP](https://github.com/hprose/hprose-php) - 高性能的跨语言序列化与 RPC 引擎
+- [Twirp](https://github.com/twirphp/twirp) - Twirp PHP 版本
+- [grpc-php](https://github.com/grpc/grpc-php) - gRPC 客户端
+
+
 ## Composer
 > 最好用的 PHP 包管理器，没有之一
 
@@ -501,6 +522,7 @@
 - [Awesome Composer](https://github.com/jakoch/awesome-composer): A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials
 - [ZComposer](https://github.com/zencodex/composer-mirror) - Composer 镜像，有助于了解 Composer 镜像的原理
 - [Packagist Mirror](https://github.com/Webysther/packagist-mirror)
+- [PackageVersions](https://github.com/Ocramius/PackageVersions) - 获取已安装的 Composer 扩展的版本号
 
 
 ## PHP 扩展
@@ -513,6 +535,7 @@
 
 ## PHP相关软件/工具
 - [**Laradock**](https://github.com/laradock/laradock) - PHP Docker 开发环境工具
+- [LNMP Docker](https://github.com/khs1994-docker/lnmp) - PHP Docker 环境
 - [LNMP一键安装包(1)](https://lnmp.org)
 - [LNMP一键安装包(2)](https://github.com/lj2007331/lnmp)
 - [**OneinStack**](https://oneinstack.com) - 一键 PHP/JAVA 环境安装工具
@@ -523,7 +546,6 @@
 - [FirePHP](http://www.firephp.org) - PHP Debug 工具
 - [Thrift for PHP](https://github.com/apache/thrift/tree/master/lib/php)
 - [msgpack.php](https://github.com/rybakit/msgpack.php)
-- [Hprose for PHP](https://github.com/hprose/hprose-php) - 高性能的跨语言序列化与 RPC 引擎
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet 对 PHP 的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text 的 PHP 代码格式检查插件
