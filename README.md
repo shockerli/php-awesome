@@ -35,7 +35,9 @@
 
 
 ## 项目框架
+- [php-ddd-skeleton](https://github.com/CodelyTV/php-ddd-skeleton) - DDD 结构的项目骨架
 - [laravel-admin](https://github.com/z-song/laravel-admin) - 快速构建后台管理的开发工具
+- [Dcat Admin](https://github.com/jqhph/dcat-admin) - 基于 `laravel-admin` 的后台系统构建工具
 - [Voyager](https://github.com/the-control-group/voyager) - Laravel 后台管理框架
 - [**FastAdmin**](https://github.com/karsonzhang/fastadmin) - 基于 ThinkPHP5 + Bootstrap 的极速后台开发框架
 - [YFCMF](https://gitee.com/rainfer/YFCMF) - 后台内容管理框架，基于 ThinkPHP5.1
@@ -120,6 +122,8 @@
 - [Aura](http://auraphp.com) - 包含许多组件
 - [Kohana](https://kohanaframework.org) - HMVC框架
 - [**Workerman**](https://github.com/walkor/workerman) - PHP Socket服务器框架
+- [webman](https://github.com/walkor/webman) - 基于 Workerman 的高性能 HTTP 服务框架
+- [amphp/http-server](https://github.com/amphp/http-server) - 基于 Amp 实现的 HTTP 服务框架
 - [Ohsce](https://github.com/OpenIBC/Ohsce) - 高可靠性 PHP 通信&控制框架 SOCKET
 - [PPM](https://github.com/php-pm/php-pm) - PHP Process Manager
 - [ZPHP](https://github.com/shenzhe/zphp) - SOA 服务框架
@@ -179,7 +183,7 @@
 - [**SocketLog**](https://github.com/luofei614/SocketLog) - 微信调试、API 调试和 AJAX 的调试的工具，能将日志通过 WebSocket 输出到 Chrome 浏览器的 console 中
 - [ApnsPHP](https://github.com/immobiliare/ApnsPHP) - iOS 推送通知
 - [php-socket-raw](https://github.com/clue/php-socket-raw)
-- [Faker](https://github.com/fzaninotto/Faker) - 假数据生成器
+- [Faker](https://github.com/FakerPHP/Faker) - 假数据生成器
 - [Geocoder](https://github.com/geocoder-php/Geocoder)
 - [Style-Guide-Boilerplate](https://github.com/bjankord/Style-Guide-Boilerplate) - 手册制作工具
 - [**PHP Humanizer**](https://github.com/coduo/php-humanizer) - 数据格式化（多语言）
@@ -244,6 +248,7 @@
 - [VicWord](https://github.com/lizhichao/VicWord) - 分词
 - [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL Builder 一样
 - [Doctrine Inflector](https://github.com/doctrine/inflector)
+- [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - PHP 注释块解析
 
 
 ### 算法
@@ -293,6 +298,7 @@
 - [OpCacheGUI](https://github.com/PeeHaa/OpCacheGUI) - 漂亮且支持权限验证的 OPcache 界面管理工具
 - [OPcache Status](https://github.com/rlerdorf/opcache-status) - 单文件的 OPcache 状态配置管理
 - [phpdbg](https://www.php.net/manual/zh/book.phpdbg.php) - 内置的调试工具
+- [PHP Language Server](https://github.com/felixfbecker/php-language-server) - 实现了 [Language Server Protocol](https://github.com/Microsoft/language-server-protocol)，适用于任意 IDE 的代码静态分析
 
 
 ### API
@@ -388,7 +394,7 @@
 + [phpClickHouse](https://github.com/smi2/phpClickHouse) - PHP ClickHouse wrapper
 
 
-### 队列/任务
+### 任务
 + [RoboTask](https://github.com/Codegyre/Robo) - 面向对象的 PHP 任务运行器
 + [PHP-Queue](https://github.com/CoderKungfu/php-queue) - 管理队列后端的应用
 + [RoboTask](https://github.com/consolidation/Robo) - PHP 后台任务组件
@@ -396,6 +402,7 @@
 + [php-resque](https://github.com/chrisboulton/php-resque) - PHP 版Resque
 + [taskPHP](https://github.com/qq8044023/taskPHP) - 基于原生态 PHP 开发的定时计划任务框架
 + [SimpleFork](https://github.com/SegmentFault/SimpleFork) - 精简的 PHP 多进程控制库
++ [Easy!Appointments](https://github.com/alextselegidis/easyappointments) - Open Source Appointment Scheduler
 
 
 ### 缓存
@@ -406,6 +413,7 @@
 + [Monga](https://github.com/thephpleague/monga) - 纯 PHP 实现的 MongoDB 操作库
 + [php-lrucache](https://github.com/rogeriopvl/php-lrucache) - LRU 算法缓存实现
 + [PhpRedis](https://github.com/phpredis/phpredis) - Redis 客户端扩展
++ [sabre/cache](https://github.com/sabre-io/cache) - 实现 PSR-16 规范的 KV 缓存抽象层
 
 
 ### Markdown
@@ -440,6 +448,7 @@
 + [PDFParser](https://github.com/smalot/pdfparser) - PDF 文档解析库
 + [Dompdf](https://github.com/dompdf/dompdf)
 + [Browsershot](https://github.com/spatie/browsershot) - 将 HTML 转换为图像、PDF 或字符串
++ [ibis](https://github.com/themsaid/ibis) - 通过 Markdown 文档生成电子书和 PDF
 
 
 ### HTTP/网络通信
@@ -454,6 +463,8 @@
 - [symfony/http-foundation](https://github.com/symfony/http-foundation)
 - [phpWhois](https://github.com/phpWhois/phpWhois) - Whois 信息查询
 - [FruityWifi](https://github.com/xtr4nge/FruityWifi) - WiFi 管理工具
+- [Expose](https://github.com/beyondcode/expose) - 共享本地网站给其他人访问
+- [amphp/http-client](https://github.com/amphp/http-client) - 基于 Amp 实现的异步 HTTP 客户端
 
 
 ### 表单校验
@@ -549,4 +560,5 @@
 - [HessianPHP](http://sourceforge.net/projects/hessianphp) - 采用二进制格式传输的服务框架
 - [JsonNet-PHP](https://github.com/Neeke/JsonNet) - Google Jsonnet 对 PHP 的支持扩展
 - [sublime-phpcs](https://github.com/benmatselby/sublime-phpcs) - Sublime Text 的 PHP 代码格式检查插件
+- [implode.io](https://implode.io) - PHP Playground，在线运行 PHP 代码，支持多版本
 
