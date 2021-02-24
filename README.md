@@ -432,7 +432,8 @@
 
 ### Office
 + [PHPWord](https://github.com/PHPOffice/PHPWord)
-+ [PHPExcel](https://github.com/PHPOffice/PhpSpreadsheet)
++ [PHPExcel](https://github.com/PHPOffice/PHPExcel) - 项目已不再维护，请使用[PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
++ [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
 + [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation)
 + [CSV](https://github.com/thephpleague/csv) - CSV 操作类
 + [Simple Excel](https://github.com/faisalman/simple-excel-php)
