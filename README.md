@@ -44,6 +44,8 @@
 - [ThinkCMF](https://github.com/thinkcmf/thinkcmf) - 后台内容管理框架，基于 ThinkPHP5
 - [RhaPHP](https://github.com/geesondog/rhaphp) - 微信开发、小程序开发、微信公众号管理系统
 - [OneBase](https://gitee.com/Bigotry/OneBase) - 基于 ThinkPHP5 的后台开发框架
+- [RageFrame2](https://github.com/jianyan74/rageframe2) - 基于Yii2快速业务开发框架
+- [yaldash](https://github.com/getspooky/yaldash) - Laravel 后台管理
 
 
 ## 成品软件
@@ -64,8 +66,11 @@
 
 
 ### CMS
+- [WordPress](https://github.com/WordPress/WordPress) - 世界上应用最广泛的 Web 软件
+- [WordPlate](https://github.com/wordplate/wordplate) - 对 WordPress 进行了改造包装，支持 Composer、插件管理、Laravel Mix 等
 - [Grav](https://github.com/getgrav/grav) - 基于文件的 CMS
 - [October](https://github.com/octobercms/october) - 基于 Laravel 开发的 CMS
+- [Winter](https://github.com/wintercms/winter) 基于 Laravel 的 CMS
 
 
 ### 社区
@@ -73,6 +78,10 @@
 - [MDClub](https://github.com/zdhxiong/mdclub) - 更轻量的 Material Design 风格社区
 - [PHPDish](https://github.com/slince/phpdish) - 基于 Symfony 框架开发的内容社区系统
 - [Koel](https://github.com/phanan/koel) - 音乐社区🎵
+
+
+### 电商
+- [TinyShop](https://github.com/jianyan74/TinyShop) - 支持微信、分销、客服的电商软件
 
 
 ### 文件管理
@@ -195,7 +204,8 @@
 - [**PHPBrew**](https://github.com/phpbrew/phpbrew) - PHP版本&扩展管理工具
 - [X-Prober](https://github.com/kmvan/x-prober) - PHP探针
 - [Countries](https://github.com/mledoze/countries) - World countries in JSON, CSV, XML and YAML.
-- [PHP dotenv](https://github.com/vlucas/phpdotenv) - PHP `.env` 环境配置管理
+- [phpdotenv](https://github.com/vlucas/phpdotenv) - PHP `.env` 环境配置管理
+- [symfony/dotenv](https://github.com/symfony/dotenv)
 - [ramsey/uuid](https://github.com/ramsey/uuid) - uuid 生成器
 - [Linfo](https://github.com/jrgp/linfo) - Server stats UI/library
 - [PHP-Casbin](https://github.com/php-casbin/php-casbin) - 访问控制框架，支持 ACL、RBAC、ABAC 多种模型
@@ -212,6 +222,8 @@
 - [Docker Tutorials and Labs](https://github.com/docker/labs)
 - [easytbk](https://github.com/niugengyun/easytbk) - 淘客六合一SDK，支持淘宝联盟、京东联盟、多多进宝、唯品会、苏宁、蘑菇街
 - [PHP-Scoper](https://github.com/humbug/php-scoper) - 隔离代码，方便打包成 PHAR
+- [TNTSearch](https://github.com/teamtnt/tntsearch) - 纯 PHP 实现的全文搜索引擎
+- [Symfony Polyfill](https://github.com/symfony/polyfill) - 补齐低版本不支持的功能
 
 
 ### 路由
@@ -248,7 +260,6 @@
 - [VicWord](https://github.com/lizhichao/VicWord) - 分词
 - [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL Builder 一样
 - [Doctrine Inflector](https://github.com/doctrine/inflector)
-- [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - PHP 注释块解析
 
 
 ### 算法
@@ -257,8 +268,11 @@
 
 
 ### 语法解析
-- [Tolerant PHP Parser](https://github.com/microsoft/tolerant-php-parser)
-- [PHP-Parser](https://github.com/nikic/PHP-Parser) - PHP 解析器
+- [Tolerant PHP Parser](https://github.com/microsoft/tolerant-php-parser) - 微软出品的 PHP 语法解析器
+- [PHP-Parser](https://github.com/nikic/PHP-Parser) - PHP 语法解析器
+- [expression-language](https://github.com/symfony/expression-language) - 表达式解析&运算
+- [TypeResolver](https://github.com/phpDocumentor/TypeResolver) - TypeResolver and FqsenResolver
+- [ReflectionDocBlock](https://github.com/phpDocumentor/ReflectionDocBlock) - PHP 注释块解析
 
 
 ### 代码检查/静态分析
@@ -274,6 +288,7 @@
 - [Doctrine Lexer](https://github.com/doctrine/lexer)
 - [BetterReflection](https://github.com/Roave/BetterReflection) - 基于AST的反射库，允许分析操作代码
 - [PHP Analyzer](https://github.com/scrutinizer-ci/php-analyzer) - 执行和编译器相同的流动分析
+- [phpspy](https://github.com/adsr/phpspy) - PHP 性能分析工具，支持火焰图
 
 
 ### CLI
@@ -324,6 +339,7 @@
 ### 时间/日期
 - [Chinese calendar](https://github.com/overtrue/chinese-calendar) - 中国农历（阴历）与阳历（公历）转换与查询工具
 - [Carbon](https://github.com/briannesbitt/Carbon) - 时间日期处理类
+- [php-timer](https://github.com/sebastianbergmann/php-timer)
 
 
 ### 微信
@@ -422,18 +438,20 @@
 + [Parsedown](https://github.com/erusev/parsedown) - Markdown 解析类
 + [CommonMark](https://github.com/thephpleague/commonmark)
 + [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown)
++ [cebe/markdown](https://github.com/cebe/markdown)
 
 
 ### 邮件
-+ [Swift Mailer](http://swiftmailer.org) - PHP 邮件库
++ [Swift Mailer](https://github.com/swiftmailer/swiftmailer) - PHP 邮件库
 + [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 + [EmailValidator](https://github.com/egulias/EmailValidator) - 邮箱地址验证
++ [RainLoop Webmail](https://github.com/RainLoop/rainloop-webmail) - Web 邮件客户端
++ [AnonAddy](https://github.com/anonaddy/anonaddy) - 匿名邮件转发服务
 
 
 ### Office
 + [PHPWord](https://github.com/PHPOffice/PHPWord)
-+ [PHPExcel](https://github.com/PHPOffice/PHPExcel) - 项目已不再维护，请使用[PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
-+ [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet)
++ [PHPExcel](https://github.com/PHPOffice/PhpSpreadsheet)
 + [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation)
 + [CSV](https://github.com/thephpleague/csv) - CSV 操作类
 + [Simple Excel](https://github.com/faisalman/simple-excel-php)
@@ -471,6 +489,7 @@
 ### 表单校验
 - [Respect/Validation](https://github.com/Respect/Validation) - 校验工具
 - [siriusphp/validation](https://github.com/siriusphp/validation)
+- [valitron](https://github.com/vlucas/valitron)
 
 
 ### 测试框架
@@ -509,7 +528,13 @@
 + [ColorExtractor](https://github.com/thephpleague/color-extractor) - 获取图片中的颜色
 + [Captcha](https://github.com/Gregwar/Captcha) - 验证码
 + [Lychee](https://github.com/electerious/Lychee) - 图片管理系统
+
+
+### 工作流
+- [Workflow](https://github.com/symfony/workflow)
 + [Workflower](https://github.com/phpmentors-jp/workflower) - BPMN 2.0 workflow engine for PHP
++ [PVM](https://github.com/formapro/pvm) - Build workflows, activities, BPMN like processes, or state machines with PVM
++ [Nayra](https://github.com/ProcessMaker/nayra) - BPMN workflow engine
 
 
 ### 视频
