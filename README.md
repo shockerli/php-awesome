@@ -63,11 +63,13 @@
 - [PHP Server Monitor](https://github.com/phpservermon/phpservermon) - 服务器监控工具
 - [phpSysInfo](https://github.com/phpsysinfo/phpsysinfo) - 系统信息展示
 - [YouPHPTube](https://github.com/YouPHPTube/YouPHPTube) - YouTube 克隆工具
+- [独角数卡](https://github.com/assimon/dujiaoka) - 自动售货系统
 
 
 ### CMS
 - [WordPress](https://github.com/WordPress/WordPress) - 世界上应用最广泛的 Web 软件
 - [WordPlate](https://github.com/wordplate/wordplate) - 对 WordPress 进行了改造包装，支持 Composer、插件管理、Laravel Mix 等
+- [Kirki](https://github.com/kirki-framework/kirki) - WordPress Theme Customizer 开发框架
 - [Grav](https://github.com/getgrav/grav) - 基于文件的 CMS
 - [October](https://github.com/octobercms/october) - 基于 Laravel 开发的 CMS
 - [Winter](https://github.com/wintercms/winter) 基于 Laravel 的 CMS
@@ -224,6 +226,7 @@
 - [PHP-Scoper](https://github.com/humbug/php-scoper) - 隔离代码，方便打包成 PHAR
 - [TNTSearch](https://github.com/teamtnt/tntsearch) - 纯 PHP 实现的全文搜索引擎
 - [Symfony Polyfill](https://github.com/symfony/polyfill) - 补齐低版本不支持的功能
+- [composer/semver](https://github.com/composer/semver) - 语义化版本
 
 
 ### 路由
@@ -301,6 +304,7 @@
 - [clue/commander](https://github.com/clue/php-commander)
 - [symfony/console](https://github.com/symfony/console)
 - [Termage](https://github.com/termage/termage)
+- [cli-prompt](https://github.com/Seldaek/cli-prompt)
 
 
 ### 错误/异常
