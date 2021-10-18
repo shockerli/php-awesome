@@ -26,6 +26,7 @@
 
 ## 教程文档
 - [TDD 构建 Laravel 论坛笔记](https://learnku.com/docs/forum-in-laravel-tdd)
+- [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
 
 
 ## 资源站点
@@ -227,6 +228,7 @@
 - [TNTSearch](https://github.com/teamtnt/tntsearch) - 纯 PHP 实现的全文搜索引擎
 - [Symfony Polyfill](https://github.com/symfony/polyfill) - 补齐低版本不支持的功能
 - [composer/semver](https://github.com/composer/semver) - 语义化版本
+- [vphar-io/version](https://github.com/phar-io/version) - 语义化版本
 
 
 ### 路由
@@ -413,6 +415,7 @@
 + [MongoDB PHP Library](https://github.com/mongodb/mongo-php-library)
 + [Doctrine DBAL](https://github.com/doctrine/dbal) - Doctrine Database Abstraction Layer
 + [phpClickHouse](https://github.com/smi2/phpClickHouse) - PHP ClickHouse wrapper
++ [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) - 测试数据库相关的库，兼容 MySQL 5.6
 
 
 ### 任务
