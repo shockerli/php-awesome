@@ -23,10 +23,13 @@
 
 - [PHP 知识技能树](https://raw.githubusercontent.com/justjavac/awesome-awesomeness-zh_CN/master/assets/php-mind-map.jpg)
 
-
-## 教程文档
-- [TDD 构建 Laravel 论坛笔记](https://learnku.com/docs/forum-in-laravel-tdd)
+## 指南
+- [PHP: The Right Way](https://github.com/codeguy/php-the-right-way)
 - [Laravel best practices](https://github.com/alexeymezenin/laravel-best-practices)
+
+
+## 教程
+- [TDD 构建 Laravel 论坛笔记](https://learnku.com/docs/forum-in-laravel-tdd)
 
 
 ## 资源站点
@@ -65,15 +68,18 @@
 - [phpSysInfo](https://github.com/phpsysinfo/phpsysinfo) - 系统信息展示
 - [YouPHPTube](https://github.com/YouPHPTube/YouPHPTube) - YouTube 克隆工具
 - [独角数卡](https://github.com/assimon/dujiaoka) - 自动售货系统
+- [NOJ](https://github.com/ZsgsDesign/NOJ) - 南京邮电大学开源 Online Judge
 
 
 ### CMS
 - [WordPress](https://github.com/WordPress/WordPress) - 世界上应用最广泛的 Web 软件
 - [WordPlate](https://github.com/wordplate/wordplate) - 对 WordPress 进行了改造包装，支持 Composer、插件管理、Laravel Mix 等
+- [Corcel](https://github.com/corcel/corcel) - 基于 Laravel 对 WordPress 数据库进行开发
 - [Kirki](https://github.com/kirki-framework/kirki) - WordPress Theme Customizer 开发框架
 - [Grav](https://github.com/getgrav/grav) - 基于文件的 CMS
 - [October](https://github.com/octobercms/october) - 基于 Laravel 开发的 CMS
 - [Winter](https://github.com/wintercms/winter) 基于 Laravel 的 CMS
+- [Typecho](https://github.com/typecho/typecho) - 国产博客软件
 
 
 ### 社区
@@ -91,6 +97,7 @@
 - [Nextcloud Server](https://github.com/nextcloud/server) - 基于 PHP 的私有云服务
 - [Cloudreve](https://github.com/HFO4/Cloudreve) - 支持多家云存储的云盘系统
 - [Flysystem](https://github.com/thephpleague/flysystem) - 支持几十种驱动的文件管理库
+- [Piwigo](https://github.com/Piwigo/Piwigo) - 照片管理服务，超过200个丰富插件
 
 
 ### 微信相关
@@ -175,6 +182,7 @@
 - [Pinyin](https://github.com/overtrue/pinyin) - 中文转拼音工具
 - [Ratchet](https://github.com/ratchetphp/Ratchet) - 创建实时、双向客户端服务器 WebSockets 应用
 - [JsonMapper](https://github.com/netresearch/jsonmapper) - 将内嵌 JSON 结构映射为 PHP 类的库
+- [json-schema](https://github.com/swaggest/php-json-schema) - JSON Schema 协议实现
 - [Pimple](https://github.com/silexphp/Pimple) - 依赖注入容器
 - [PHP-DI](https://github.com/PHP-DI/PHP-DI) - 依赖注入容器
 - [Mobile Detect](https://github.com/serbanghita/Mobile-Detect) - 浏览器环境检测类
@@ -229,6 +237,8 @@
 - [Symfony Polyfill](https://github.com/symfony/polyfill) - 补齐低版本不支持的功能
 - [composer/semver](https://github.com/composer/semver) - 语义化版本
 - [vphar-io/version](https://github.com/phar-io/version) - 语义化版本
+- [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - 为常见网站生成 RSS
+- [Money](https://github.com/moneyphp/money) - 货币处理
 
 
 ### 路由
@@ -321,6 +331,7 @@
 - [OPcache Status](https://github.com/rlerdorf/opcache-status) - 单文件的 OPcache 状态配置管理
 - [phpdbg](https://www.php.net/manual/zh/book.phpdbg.php) - 内置的调试工具
 - [PHP Language Server](https://github.com/felixfbecker/php-language-server) - 实现了 [Language Server Protocol](https://github.com/Microsoft/language-server-protocol)，适用于任意 IDE 的代码静态分析
+- [Clockwork](https://github.com/itsgoingd/clockwork) - 集成在浏览器中的开发工具
 
 
 ### API
@@ -408,6 +419,7 @@
 + [Adminer](https://github.com/vrana/adminer) - 单文件 MySQL 管理客户端
 + [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin)
 + [SQL Parser](https://github.com/phpmyadmin/sql-parser) - SQL 解析器
++ [PHP-SQL-Parser](https://github.com/greenlion/PHP-SQL-Parser)
 + [Medoo](https://github.com/catfan/Medoo) - 最轻量级的 PHP 数据库框架
 + [schema-loader](https://github.com/dbtk/schema-loader) - Load database schema from an XML file
 + [MySQLDump-PHP](https://github.com/ifsnop/mysqldump-php) - 纯 PHP 实现的mysqldump工具
@@ -508,6 +520,7 @@
 + [atoum](https://github.com/atoum/atoum) - 单元测试框架
 + [Enhance-PHP](https://github.com/Enhance-PHP/Enhance-PHP) - 单元测试框架
 + [Mockery](https://github.com/mockery/mockery)
++ [paratest](https://github.com/paratestphp/paratest) - PHPUnit 并行测试
 
 
 ### 模板引擎
