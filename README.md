@@ -50,6 +50,7 @@
 - [OneBase](https://gitee.com/Bigotry/OneBase) - 基于 ThinkPHP5 的后台开发框架
 - [RageFrame2](https://github.com/jianyan74/rageframe2) - 基于Yii2快速业务开发框架
 - [yaldash](https://github.com/getspooky/yaldash) - Laravel 后台管理
+- [Backpack](https://github.com/Laravel-Backpack/CRUD) - 基于 `Laravel` 快速构建管理后台
 
 
 ## 成品软件
@@ -63,7 +64,7 @@
 - [MeEdu](https://github.com/Qsnh/meedu) - 基于 Laravel 开发的在线点播系统
 - [Cachet](https://github.com/CachetHQ/Cachet) - The open source status page system
 - [Magento](https://github.com/magento/magento2) - 电商系统
-- [Monica](https://github.com/monicahq/monica) - 个人 CRM
+- [Monica](https://github.com/monicahq/monica) - 个人 CRM，管理朋友、家庭、业务关系
 - [PHP Server Monitor](https://github.com/phpservermon/phpservermon) - 服务器监控工具
 - [phpSysInfo](https://github.com/phpsysinfo/phpsysinfo) - 系统信息展示
 - [YouPHPTube](https://github.com/YouPHPTube/YouPHPTube) - YouTube 克隆工具
@@ -239,6 +240,7 @@
 - [vphar-io/version](https://github.com/phar-io/version) - 语义化版本
 - [RSS-Bridge](https://github.com/RSS-Bridge/rss-bridge) - 为常见网站生成 RSS
 - [Money](https://github.com/moneyphp/money) - 货币处理
+- [Simple Local Avatars](https://github.com/10up/simple-local-avatars) - 给 Wordpress 增加 Avatar 功能，就像 Gravatar 一样
 
 
 ### 路由
@@ -304,6 +306,8 @@
 - [BetterReflection](https://github.com/Roave/BetterReflection) - 基于AST的反射库，允许分析操作代码
 - [PHP Analyzer](https://github.com/scrutinizer-ci/php-analyzer) - 执行和编译器相同的流动分析
 - [phpspy](https://github.com/adsr/phpspy) - PHP 性能分析工具，支持火焰图
+- [PHP Insights](https://github.com/nunomaduro/phpinsights) - PHP 代码质量检查命令行工具
+- [Larastan](https://github.com/nunomaduro/larastan) - Laravel 代码分析工具
 
 
 ### CLI
@@ -317,12 +321,15 @@
 - [symfony/console](https://github.com/symfony/console)
 - [Termage](https://github.com/termage/termage)
 - [cli-prompt](https://github.com/Seldaek/cli-prompt)
+- [Laravel Zero](https://github.com/laravel-zero/laravel-zero) - 基于 Laravel 的命令应用开发框架
+- [Termwind](https://github.com/nunomaduro/termwind) - 使用 Tailwind CSS 样式开发命令行应用的框架
 
 
 ### 错误/异常
 - [Whoops](https://github.com/filp/whoops) - 异常/错误处理类
 - [BooBoo](https://github.com/thephpleague/booboo) - 异常/错误处理类
 - [PHP-Error](https://github.com/JosephLenton/PHP-Error)
+- [Collision](https://github.com/nunomaduro/collision) - 命令行应用错误美化展示
 
 
 ### 调试工具
@@ -372,7 +379,6 @@
 + [PHP-Spider](https://github.com/mvdbos/php-spider)
 + [QueryList](https://github.com/jae-jae/QueryList)
 + [Goutte](https://github.com/fabpot/Goutte) - 一个抓取网站数据的 PHP 库
-+ [PHPcrawer](https://github.com/mmerian/phpcrawl)
 + [Blackfire Player](https://github.com/blackfireio/player) - Blackfire Player is a powerful Web Crawling, Web Testing, and Web Scraper application
 
 
@@ -521,6 +527,7 @@
 + [Enhance-PHP](https://github.com/Enhance-PHP/Enhance-PHP) - 单元测试框架
 + [Mockery](https://github.com/mockery/mockery)
 + [paratest](https://github.com/paratestphp/paratest) - PHPUnit 并行测试
++ [Pest](https://github.com/pestphp/pest)
 
 
 ### 模板引擎
@@ -549,6 +556,7 @@
 + [ColorExtractor](https://github.com/thephpleague/color-extractor) - 获取图片中的颜色
 + [Captcha](https://github.com/Gregwar/Captcha) - 验证码
 + [Lychee](https://github.com/electerious/Lychee) - 图片管理系统
++ [PicUploader](https://github.com/xiebruce/PicUploader) - 图床工具
 
 
 ### 工作流
